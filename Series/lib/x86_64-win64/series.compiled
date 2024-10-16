@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1497193866"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\FullM\OneDrive\Рабочий стол\Series\lib\x86_64-win64&quot; &quot;-FuC:\Users\FullM\OneDrive\Рабочий стол\Series\&quot; &quot;-FUC:\Users\FullM\OneDrive\Рабочий стол\Series\lib\x86_64-win64\&quot; &quot;-FEC:\Users\FullM\OneDrive\Рабочий стол\Series\&quot; &quot;-oC:\Users\FullM\OneDrive\Рабочий стол\Series\series.exe&quot; series.lpr"/>
+</CONFIG>
